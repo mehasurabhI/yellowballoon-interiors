@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+html{
+scroll-behavior:smooth;
+}
+
+body{
+
+margin:0;
+
+padding:0;
+
+background:#FAFAFA;
+
+font-family:var(--font-poppins);
+
+color:#071A3D;
+
+overflow-x:hidden;
+
+}
+
+h1,h2,h3,h4,h5{
+
+font-family:var(--font-playfair);
+
+}
+
+section{
+
+padding:120px 0;
+
+}
+
+.container{
+
+max-width:1280px;
+
+margin:auto;
+
+padding:0 24px;
+
+}
