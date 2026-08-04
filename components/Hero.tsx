@@ -115,7 +115,7 @@ export default function Hero() {
             <div className="overflow-hidden rounded-[32px] shadow-2xl">
 
               <Image
-                src="/Images/hero.jpg"
+                src="/Images/Hero.jpg"
                 alt="Luxury Interior"
                 width={700}
                 height={850}
